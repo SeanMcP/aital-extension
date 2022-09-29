@@ -13,7 +13,7 @@
 
 ## How to use
 
-1. [Download Souce Code (zip) from the latest release](https://github.com/SeanMcP/aital-extension/releases)
+1. Download "Source Code (zip)" from [the latest release](https://github.com/SeanMcP/aital-extension/releases)
 2. Unzip the package
 3. Navigate to chrome://extensions/
 4. Enable developer mode
