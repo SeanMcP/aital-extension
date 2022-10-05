@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   fill="none"
+   version="1.1"
+   id="svg836"
+   sodipodi:docname="artwork.svg"
+   inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
+   inkscape:export-filename="/Users/seanmcpherson/seanmcp/aital/icon.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs840" />
+  <sodipodi:namedview
+     id="namedview838"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.60617183"
+     inkscape:cx="728.34134"
+     inkscape:cy="409.94977"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg836"
+     inkscape:snap-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3963" />
+  </sodipodi:namedview>
+  <g
+     id="g3864"
+     transform="translate(8.6457138,-2)">
+    <path
+       d="m 64.497143,20.285714 -9.142857,-4.571428 -9.142857,4.571428 V 34 h 18.285714 z m -33.691429,23.725715 -11.2,11.2 c -2.285714,2.285714 -5.942857,2.285714 -8.182857,0 L 6.7142857,50.502857 C 4.4285714,48.217143 4.4285714,44.56 6.7142857,42.32 L 17.914286,31.12 c 2.285714,-2.285714 5.942857,-2.285714 8.182857,0 l 4.754286,4.754286 c 2.24,2.194285 2.24,5.897143 -0.04572,8.137143 z m 60.251429,11.2 -11.2,-11.2 c -2.285714,-2.24 -2.285714,-5.942903 0,-8.182903 l 4.754286,-4.754286 c 2.24,-2.285714 5.897142,-2.285714 8.182857,0 l 11.200004,11.200046 c 2.28571,2.24 2.28571,5.897143 0,8.182857 L 99.24,55.211429 c -2.24,2.285714 -5.897143,2.285714 -8.182857,0 z"
+       fill="#D3D3D3"
+       id="path824"
+       style="fill:#a2c2fa;fill-opacity:1;stroke-width:4.57143" />
+    <path
+       d="m 42.828571,20.285714 h 25.005715 c 3.2,0 5.805714,-2.605714 5.76,-5.805714 V 7.8057143 C 73.594286,4.6057143 70.988571,2 67.788571,2 h -24.96 c -3.2,0 -5.76,2.6057143 -5.805714,5.8057143 V 14.48 c 0,3.2 2.605714,5.805714 5.805714,5.805714 z M 105.64,79.714286 C 105.64,107.48617 83.126171,130 55.354286,130 27.582309,130 5.0686171,107.48617 5.0686171,79.714286 5.0686171,51.9424 27.582309,29.428571 55.354286,29.428571 83.126171,29.428571 105.64,51.9424 105.64,79.714286 Z"
+       fill="#636363"
+       id="path826"
+       style="fill:#4484f4;fill-opacity:1;stroke-width:4.57143" />
+    <path
+       d="m 55.354286,120.85714 c 22.722743,0 41.142857,-18.42011 41.142857,-41.142854 0,-22.722743 -18.420114,-41.142857 -41.142857,-41.142857 -22.722286,0 -41.142812,18.420114 -41.142812,41.142857 0,22.722744 18.420526,41.142854 41.142812,41.142854 z"
+       fill="#ffffff"
+       id="path828"
+       style="stroke-width:4.57143" />
+    <path
+       d="m 71.491429,57.085257 3.245714,-3.245714 c 1.782857,-1.782857 4.662857,-1.782857 6.445714,0 1.782857,1.782857 1.782857,4.662857 0,6.445714 l -3.245714,3.245714 c -1.782857,1.782858 -4.662857,1.782858 -6.445714,0 -1.782858,-1.737142 -1.782858,-4.662857 0,-6.445714 z"
+       fill="#9b9b9b"
+       id="path830"
+       style="stroke-width:4.57143" />
+    <path
+       d="m 50.782857,52.285714 v -4.571428 c 0,-2.514286 2.057143,-4.571429 4.571429,-4.571429 2.514285,0 4.571428,2.057143 4.571428,4.571429 v 4.571428 c 0,2.514286 -2.057143,4.571429 -4.571428,4.571429 -2.56,0 -4.571429,-2.057143 -4.571429,-4.571429 z m 0,59.428576 v -4.57143 c 0,-2.51429 2.057143,-4.57143 4.571429,-4.57143 2.514285,0 4.571428,2.05714 4.571428,4.57143 v 4.57143 c 0,2.51428 -2.057143,4.57142 -4.571428,4.57142 -2.56,0 -4.571429,-2.05714 -4.571429,-4.57142 z M 87.354286,75.142857 h -4.571429 c -2.56,0 -4.571428,2.057143 -4.571428,4.571429 0,2.514285 2.057142,4.571428 4.571428,4.571428 h 4.571429 c 2.514285,0 4.571428,-2.057143 4.571428,-4.571428 0,-2.514286 -2.057143,-4.571429 -4.571428,-4.571429 z m -63.999955,0 h 4.571383 c 2.514286,0 4.571429,2.057143 4.571429,4.571429 0,2.514285 -2.057143,4.571428 -4.571429,4.571428 h -4.571383 c -2.514285,0 -4.571428,-2.057143 -4.571428,-4.571428 0,-2.514286 2.011428,-4.571429 4.571428,-4.571429 z M 81.228571,99.143314 77.982857,95.8976 c -1.828571,-1.782857 -4.708571,-1.782857 -6.445714,0 -1.782857,1.782857 -1.782857,4.66286 0,6.44571 l 3.245714,3.24572 c 1.782857,1.78286 4.662857,1.78286 6.445714,0 1.782858,-1.78286 1.782858,-4.66286 0,-6.445716 z m -45.302857,-45.2576 3.245715,3.245715 c 1.782857,1.782857 1.782857,4.662857 0,6.445714 -1.782858,1.782857 -4.662858,1.782857 -6.445715,0 L 29.48,60.331429 c -1.782857,-1.782858 -1.782857,-4.662858 0,-6.445715 1.782857,-1.828571 4.662857,-1.828571 6.445714,0 z m -3.2,41.965715 L 29.48,99.097143 c -1.782857,1.828567 -1.782857,4.708567 0,6.445717 1.782857,1.78285 4.662857,1.78285 6.445714,0 l 3.245715,-3.24572 c 1.782857,-1.78285 1.782857,-4.662854 0,-6.445711 -1.782858,-1.782858 -4.662858,-1.782858 -6.445715,0 z"
+       fill="#D3D3D3"
+       id="path832"
+       style="fill:#dadce0;fill-opacity:1;stroke-width:4.57143" />
+    <path
+       d="m 52.108571,82.960457 c -1.782857,-1.782857 -1.782857,-4.662857 0,-6.445714 L 74.737143,53.886171 c 1.782857,-1.782857 4.662857,-1.782857 6.445714,0 1.782857,1.782858 1.782857,4.662858 0,6.445715 L 58.554286,82.960457 c -1.782857,1.782857 -4.662857,1.782857 -6.445715,0 z"
+       fill="#F8312F"
+       id="path834"
+       style="fill:#d7503f;fill-opacity:1;stroke-width:4.57143" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+     x="-120.47018"
+     y="254.82971"
+     id="text7194"><tspan
+       sodipodi:role="line"
+       x="-120.47018"
+       y="254.82971"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;fill-opacity:1"
+       id="tspan14012">Store icon 128x128</tspan></text>
+  <rect
+     style="fill:#e8f0fe;fill-opacity:1;stroke-width:2;stroke-linecap:round"
+     id="rect16498"
+     width="128"
+     height="128"
+     x="-119.93796"
+     y="261.6828"
+     inkscape:export-filename="/Users/seanmcpherson/seanmcp/aital/web-store/store-icon.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <rect
+     style="fill:#e8f0fe;fill-opacity:1;stroke-width:5.48435;stroke-linecap:round"
+     id="rect16580"
+     width="440"
+     height="280"
+     x="28.062042"
+     y="261.6828"
+     inkscape:export-filename="/Users/seanmcpherson/seanmcp/aital/web-store/small-promo-tile.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <rect
+     style="fill:#000000;fill-opacity:1;stroke-width:12.3586;stroke-linecap:round"
+     id="rect16582"
+     width="920"
+     height="680"
+     x="488.06204"
+     y="261.6828" />
+  <rect
+     style="fill:#000000;fill-opacity:1;stroke-width:13.835;stroke-linecap:round"
+     id="rect16584"
+     width="1400"
+     height="560"
+     x="1428.062"
+     y="261.6828" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+     x="27.529816"
+     y="254.82971"
+     id="text23839"><tspan
+       sodipodi:role="line"
+       x="27.529816"
+       y="254.82971"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;fill-opacity:1"
+       id="tspan23837">Small promo tile 440x280</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+     x="487.52982"
+     y="254.82971"
+     id="text27101"><tspan
+       sodipodi:role="line"
+       x="487.52982"
+       y="254.82971"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;fill-opacity:1"
+       id="tspan27099">Large promo tile 920x680</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+     x="1427.1343"
+     y="254.82971"
+     id="text28947"><tspan
+       sodipodi:role="line"
+       x="1427.1343"
+       y="254.82971"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;fill-opacity:1"
+       id="tspan28945">Marquee promo tile 1400x560</tspan></text>
+  <g
+     id="g33506"
+     transform="matrix(3.9307674,0,0,3.9307674,-118.8892,262.79052)"
+     inkscape:export-filename="/Users/seanmcpherson/seanmcp/aital/web-store/store-icon.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
+    <path
+       d="m 18.015,6 -2,-1 -2,1 v 3 h 4 z m -7.37,5.19 -2.45,2.45 c -0.5,0.5 -1.3,0.5 -1.79,0 l -1.03,-1.03 c -0.5,-0.5 -0.5,-1.3 0,-1.79 l 2.45,-2.45 c 0.5,-0.5 1.3,-0.5 1.79,0 l 1.04,1.04 c 0.49,0.48 0.49,1.29 -0.01,1.78 z m 13.18,2.45 -2.45,-2.45 c -0.5,-0.49 -0.5,-1.30001 0,-1.79001 l 1.04,-1.04 c 0.49,-0.5 1.29,-0.5 1.79,0 l 2.45,2.45001 c 0.5,0.49 0.5,1.29 0,1.79 l -1.04,1.04 c -0.49,0.5 -1.29,0.5 -1.79,0 z"
+       fill="#D3D3D3"
+       id="path33488"
+       style="fill:#a2c2fa;fill-opacity:1" />
+    <path
+       d="m 13.275,6 h 5.47 c 0.7,0 1.27,-0.57 1.26,-1.27 V 3.27 C 20.005,2.57 19.435,2 18.735,2 h -5.46 c -0.7,0 -1.26,0.57 -1.27,1.27 v 1.46 c 0,0.7 0.57,1.27 1.27,1.27 z m 13.74,13 c 0,6.0751 -4.9249,11 -11,11 C 9.93988,30 5.01501,25.0751 5.01501,19 c 0,-6.0751 4.92487,-11 10.99999,-11 6.0751,0 11,4.9249 11,11 z"
+       fill="#636363"
+       id="path33490"
+       style="fill:#4484f4;fill-opacity:1" />
+    <path
+       d="m 16.015,28 c 4.9706,0 9,-4.0294 9,-9 0,-4.9706 -4.0294,-9 -9,-9 -4.9705,0 -8.99999,4.0294 -8.99999,9 0,4.9706 4.02949,9 8.99999,9 z"
+       fill="#ffffff"
+       id="path33492" />
+    <path
+       d="m 19.545,14.0499 0.71,-0.71 c 0.39,-0.39 1.02,-0.39 1.41,0 0.39,0.39 0.39,1.02 0,1.41 l -0.71,0.71 c -0.39,0.39 -1.02,0.39 -1.41,0 -0.39,-0.38 -0.39,-1.02 0,-1.41 z"
+       fill="#9b9b9b"
+       id="path33494" />
+    <path
+       d="m 15.015,13 v -1 c 0,-0.55 0.45,-1 1,-1 0.55,0 1,0.45 1,1 v 1 c 0,0.55 -0.45,1 -1,1 -0.56,0 -1,-0.45 -1,-1 z m 0,13 v -1 c 0,-0.55 0.45,-1 1,-1 0.55,0 1,0.45 1,1 v 1 c 0,0.55 -0.45,1 -1,1 -0.56,0 -1,-0.45 -1,-1 z m 8,-8 h -1 c -0.56,0 -1,0.45 -1,1 0,0.55 0.45,1 1,1 h 1 c 0.55,0 1,-0.45 1,-1 0,-0.55 -0.45,-1 -1,-1 z M 9.01501,18 H 10.015 c 0.55,0 1,0.45 1,1 0,0.55 -0.45,1 -1,1 H 9.01501 c -0.55,0 -1,-0.45 -1,-1 0,-0.55 0.44,-1 1,-1 z m 12.65999,5.2501 -0.71,-0.71 c -0.4,-0.39 -1.03,-0.39 -1.41,0 -0.39,0.39 -0.39,1.02 0,1.41 l 0.71,0.71 c 0.39,0.39 1.02,0.39 1.41,0 0.39,-0.39 0.39,-1.02 0,-1.41 z m -9.91,-9.9001 0.71,0.71 c 0.39,0.39 0.39,1.02 0,1.41 -0.39,0.39 -1.02,0.39 -1.41,0 l -0.71,-0.71 c -0.39,-0.39 -0.39,-1.02 0,-1.41 0.39,-0.4 1.02,-0.4 1.41,0 z m -0.7,9.18 -0.71,0.71 c -0.39,0.4 -0.39,1.03 0,1.41 0.39,0.39 1.02,0.39 1.41,0 l 0.71,-0.71 c 0.39,-0.39 0.39,-1.02 0,-1.41 -0.39,-0.39 -1.02,-0.39 -1.41,0 z"
+       fill="#D3D3D3"
+       id="path33496"
+       style="fill:#dadce0;fill-opacity:1" />
+    <path
+       d="m 15.305,19.7101 c -0.39,-0.39 -0.39,-1.02 0,-1.41 l 4.95,-4.95 c 0.39,-0.39 1.02,-0.39 1.41,0 0.39,0.39 0.39,1.02 0,1.41 l -4.95,4.95 c -0.39,0.39 -1.02,0.39 -1.41,0 z"
+       fill="#F8312F"
+       id="path33498"
+       style="fill:#d7503f;fill-opacity:1" />
+  </g>
+  <rect
+     style="fill:#000000;fill-opacity:0.0752212;stroke-width:2.31727;stroke-linecap:round"
+     id="rect4499"
+     width="48"
+     height="41.454544"
+     x="-119.93796"
+     y="348.22827"
+     inkscape:export-filename="/Users/seanmcpherson/seanmcp/aital/web-store/store-icon.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <rect
+     style="fill:#ffffff;stroke-width:2.12416;stroke-linecap:round"
+     id="rect4180"
+     width="44"
+     height="38"
+     x="-119.93796"
+     y="351.6828"
+     inkscape:export-filename="/Users/seanmcpherson/seanmcp/aital/web-store/store-icon.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+     x="-0.53222656"
+     y="-4.2168803"
+     id="text934"><tspan
+       sodipodi:role="line"
+       x="-0.53222656"
+       y="-4.2168803"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;fill-opacity:1"
+       id="tspan932">Icon 128x128</tspan></text>
+  <g
+     style="fill:none"
+     id="g4967"
+     transform="matrix(0.36567249,0,0,0.36567249,-113.93796,357.51859)"
+     inkscape:export-filename="/Users/seanmcpherson/seanmcp/aital/web-store/store-icon.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
+    <path
+       fill="#00832d"
+       d="m 49.5,36 8.53,9.75 11.47,7.33 2,-17.02 -2,-16.64 -11.69,6.44 z"
+       id="path4943" />
+    <path
+       fill="#0066da"
+       d="M 0,51.5 V 66 c 0,3.315 2.685,6 6,6 h 14.5 l 3,-10.96 -3,-9.54 -9.95,-3 z"
+       id="path4945" />
+    <path
+       fill="#e94235"
+       d="M 20.5,0 0,20.5 l 10.55,3 9.95,-3 2.95,-9.41 z"
+       id="path4947" />
+    <path
+       fill="#2684fc"
+       d="M 20.5,20.5 H 0 v 31 h 20.5 z"
+       id="path4949" />
+    <path
+       fill="#00ac47"
+       d="M 82.6,8.68 69.5,19.42 v 33.66 l 13.16,10.79 c 1.97,1.54 4.85,0.135 4.85,-2.37 V 11 C 87.51,8.465 84.565,7.075 82.6,8.68 Z M 49.5,36 v 15.5 h -29 V 72 h 43 c 3.315,0 6,-2.685 6,-6 V 53.08 Z"
+       id="path4951" />
+    <path
+       fill="#ffba00"
+       d="m 63.5,0 h -43 v 20.5 h 29 V 36 l 20,-16.57 V 6 c 0,-3.315 -2.685,-6 -6,-6 z"
+       id="path4953" />
+  </g>
+  <g
+     id="g14122"
+     transform="matrix(0.8372093,0,0,0.8372093,42.945764,-171.80557)"
+     inkscape:export-filename="/Users/seanmcpherson/seanmcp/aital/web-store/small-promo-tile.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
+    <rect
+       style="opacity:1;fill:#1d1e20;fill-opacity:0.992157;stroke-width:2;stroke-linecap:round"
+       id="rect5204"
+       width="430"
+       height="250"
+       x="30"
+       y="560"
+       ry="10" />
+    <rect
+       style="opacity:1;fill:#34373a;fill-opacity:1;stroke-width:2;stroke-linecap:round"
+       id="rect5462"
+       width="200"
+       height="90"
+       x="40"
+       y="570"
+       ry="10" />
+    <rect
+       style="opacity:1;fill:#34373a;fill-opacity:1;stroke-width:2;stroke-linecap:round"
+       id="rect8649"
+       width="200"
+       height="90"
+       x="250"
+       y="570"
+       ry="10" />
+    <g
+       id="g14106"
+       transform="translate(-20)">
+      <circle
+         style="fill:#34373a;fill-opacity:1;stroke-width:2;stroke-linecap:round"
+         id="circle9003"
+         cx="205"
+         cy="785"
+         r="15" />
+      <circle
+         style="fill:#34373a;fill-opacity:1;stroke-width:2;stroke-linecap:round"
+         id="circle9005"
+         cx="245"
+         cy="785"
+         r="15" />
+      <circle
+         style="fill:#34373a;fill-opacity:1;stroke-width:2;stroke-linecap:round"
+         id="circle9007"
+         cx="285"
+         cy="785"
+         r="15" />
+      <circle
+         style="fill:#ea493d;fill-opacity:1;stroke-width:2;stroke-linecap:round"
+         id="circle9009"
+         cx="325"
+         cy="785"
+         r="15" />
+    </g>
+    <rect
+       style="opacity:1;fill:#34373a;fill-opacity:1;stroke-width:2;stroke-linecap:round"
+       id="rect10855"
+       width="200"
+       height="90"
+       x="40"
+       y="670"
+       ry="10" />
+    <rect
+       style="opacity:1;fill:#34373a;fill-opacity:1;stroke-width:2;stroke-linecap:round"
+       id="rect11061"
+       width="200"
+       height="90"
+       x="250"
+       y="670"
+       ry="10" />
+    <rect
+       style="opacity:1;fill:#34373a;fill-opacity:1;stroke-width:2;stroke-linecap:round"
+       id="rect11085"
+       width="80"
+       height="10"
+       x="40"
+       y="780"
+       ry="5" />
+    <circle
+       style="opacity:1;fill:#34373a;fill-opacity:1;stroke-width:2;stroke-linecap:round"
+       id="path11189"
+       cx="445"
+       cy="785"
+       r="5" />
+    <circle
+       style="opacity:1;fill:#34373a;fill-opacity:1;stroke-width:2;stroke-linecap:round"
+       id="circle11271"
+       cx="425"
+       cy="785"
+       r="5" />
+    <circle
+       style="opacity:1;fill:#34373a;fill-opacity:1;stroke-width:2;stroke-linecap:round"
+       id="circle11273"
+       cx="405"
+       cy="785"
+       r="5" />
+  </g>
+  <g
+     id="g14136"
+     transform="matrix(8.5714286,0,0,8.5714286,5.204899,264.53994)"
+     inkscape:export-filename="/Users/seanmcpherson/seanmcp/aital/web-store/small-promo-tile.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
+    <path
+       d="m 18.015,6 -2,-1 -2,1 v 3 h 4 z m -7.37,5.19 -2.45,2.45 c -0.5,0.5 -1.3,0.5 -1.79,0 l -1.03,-1.03 c -0.5,-0.5 -0.5,-1.3 0,-1.79 l 2.45,-2.45 c 0.5,-0.5 1.3,-0.5 1.79,0 l 1.04,1.04 c 0.49,0.48 0.49,1.29 -0.01,1.78 z m 13.18,2.45 -2.45,-2.45 c -0.5,-0.49 -0.5,-1.30001 0,-1.79001 l 1.04,-1.04 c 0.49,-0.5 1.29,-0.5 1.79,0 l 2.45,2.45001 c 0.5,0.49 0.5,1.29 0,1.79 l -1.04,1.04 c -0.49,0.5 -1.29,0.5 -1.79,0 z"
+       fill="#D3D3D3"
+       id="path14124"
+       style="fill:#a2c2fa;fill-opacity:1" />
+    <path
+       d="m 13.275,6 h 5.47 c 0.7,0 1.27,-0.57 1.26,-1.27 V 3.27 C 20.005,2.57 19.435,2 18.735,2 h -5.46 c -0.7,0 -1.26,0.57 -1.27,1.27 v 1.46 c 0,0.7 0.57,1.27 1.27,1.27 z m 13.74,13 c 0,6.0751 -4.9249,11 -11,11 C 9.93988,30 5.01501,25.0751 5.01501,19 c 0,-6.0751 4.92487,-11 10.99999,-11 6.0751,0 11,4.9249 11,11 z"
+       fill="#636363"
+       id="path14126"
+       style="fill:#4484f4;fill-opacity:1" />
+    <path
+       d="m 16.015,28 c 4.9706,0 9,-4.0294 9,-9 0,-4.9706 -4.0294,-9 -9,-9 -4.9705,0 -8.99999,4.0294 -8.99999,9 0,4.9706 4.02949,9 8.99999,9 z"
+       fill="#ffffff"
+       id="path14128" />
+    <path
+       d="m 19.545,14.0499 0.71,-0.71 c 0.39,-0.39 1.02,-0.39 1.41,0 0.39,0.39 0.39,1.02 0,1.41 l -0.71,0.71 c -0.39,0.39 -1.02,0.39 -1.41,0 -0.39,-0.38 -0.39,-1.02 0,-1.41 z"
+       fill="#9b9b9b"
+       id="path14130" />
+    <path
+       d="m 15.015,13 v -1 c 0,-0.55 0.45,-1 1,-1 0.55,0 1,0.45 1,1 v 1 c 0,0.55 -0.45,1 -1,1 -0.56,0 -1,-0.45 -1,-1 z m 0,13 v -1 c 0,-0.55 0.45,-1 1,-1 0.55,0 1,0.45 1,1 v 1 c 0,0.55 -0.45,1 -1,1 -0.56,0 -1,-0.45 -1,-1 z m 8,-8 h -1 c -0.56,0 -1,0.45 -1,1 0,0.55 0.45,1 1,1 h 1 c 0.55,0 1,-0.45 1,-1 0,-0.55 -0.45,-1 -1,-1 z M 9.01501,18 H 10.015 c 0.55,0 1,0.45 1,1 0,0.55 -0.45,1 -1,1 H 9.01501 c -0.55,0 -1,-0.45 -1,-1 0,-0.55 0.44,-1 1,-1 z m 12.65999,5.2501 -0.71,-0.71 c -0.4,-0.39 -1.03,-0.39 -1.41,0 -0.39,0.39 -0.39,1.02 0,1.41 l 0.71,0.71 c 0.39,0.39 1.02,0.39 1.41,0 0.39,-0.39 0.39,-1.02 0,-1.41 z m -9.91,-9.9001 0.71,0.71 c 0.39,0.39 0.39,1.02 0,1.41 -0.39,0.39 -1.02,0.39 -1.41,0 l -0.71,-0.71 c -0.39,-0.39 -0.39,-1.02 0,-1.41 0.39,-0.4 1.02,-0.4 1.41,0 z m -0.7,9.18 -0.71,0.71 c -0.39,0.4 -0.39,1.03 0,1.41 0.39,0.39 1.02,0.39 1.41,0 l 0.71,-0.71 c 0.39,-0.39 0.39,-1.02 0,-1.41 -0.39,-0.39 -1.02,-0.39 -1.41,0 z"
+       fill="#D3D3D3"
+       id="path14132"
+       style="fill:#dadce0;fill-opacity:1" />
+    <path
+       d="m 15.305,19.7101 c -0.39,-0.39 -0.39,-1.02 0,-1.41 l 4.95,-4.95 c 0.39,-0.39 1.02,-0.39 1.41,0 0.39,0.39 0.39,1.02 0,1.41 l -4.95,4.95 c -0.39,0.39 -1.02,0.39 -1.41,0 z"
+       fill="#F8312F"
+       id="path14134"
+       style="fill:#d7503f;fill-opacity:1" />
+  </g>
+</svg>

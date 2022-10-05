@@ -1,0 +1,10 @@
+An extension for keeping track of who is talking during Google Meets
+
+Do you find yourself talking too much during meetings? Or maybe you don't talk enough? Wouldn't it be nice to know when you are dominating the conversation or failed to comment at all?
+
+"Am I Talking A Lot?" provides the solution by keeping a private record of participant talking time in Google Meet meetings.
+
+User testimonials
+- "I need that extension, lol!"
+- "This extension is great because it provides a subtle reminder to wrap up my thought and let others speak."
+- "I especially enjoy the minimize button so I can toggle seeing the data or not."
