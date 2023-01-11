@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "build": "vite build",
+    "postbuild": "mv dist/style.css dist/aital.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "sass": "^1.57.1",
+    "vite": "^4.0.4"
+  }
+}
