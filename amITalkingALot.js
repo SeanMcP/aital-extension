@@ -14,21 +14,27 @@
   details.appendChild(summary);
   const content = document.createElement("div");
   details.appendChild(content);
-
   document.body.appendChild(details);
 
-  let quietClassString = null;
+  window.__aitalDebugMode = false;
 
   const tally = {
     __seconds: 0,
   };
-
   const elementsByName = {};
+  // Declared here so that we can reference the values when debugging
   let indicators;
   let participants;
 
-  function alphaStringifyClassList(classList) {
-    return [...classList].sort().join(" ");
+  function debug() {
+    if (window.__aitalDebugMode) {
+      console.log("🪲 AITAL", ...arguments, {
+        data: tally,
+        elements: elementsByName,
+        participants,
+        indicators,
+      });
+    }
   }
 
   function truncate(name) {
@@ -56,34 +62,6 @@
   }
 
   function tick() {
-    if (!quietClassString) {
-      const muteButton = document.querySelector(
-        "button[aria-label*=microphone][data-is-muted]"
-      );
-
-      if (!muteButton) return;
-
-      let clicked = false;
-
-      if (muteButton.dataset.isMuted == "false") {
-        muteButton.click();
-        clicked = true;
-      }
-
-      try {
-        const indicator =
-          document.querySelector("[data-use-tooltip]").lastChild;
-
-        quietClassString = alphaStringifyClassList(indicator.classList);
-
-        if (clicked) {
-          muteButton.click();
-        }
-      } catch (e) {
-        return console.log(e);
-      }
-    }
-
     participants = document.querySelectorAll("[data-self-name]");
 
     if (participants.length <= 1) {
@@ -93,6 +71,7 @@
     tally.__seconds++;
 
     indicators = [];
+
     document.querySelectorAll("i.google-material-icons").forEach((node) => {
       if (node.textContent === "devices") {
         const previous = node.previousSibling;
@@ -100,11 +79,13 @@
         if (!previous) {
           // There should always be a previous sibling, but better safe than
           // sorry.
-          console.error("No previous sibling for node", node);
+          debug("No previous sibling for node", node);
           return;
         }
 
         if (previous.dataset.useTooltip) {
+          // There is an extra element wrapper for your video, which we can
+          // identify with data-use-tooltip.
           indicators.push(previous.lastChild);
         } else {
           indicators.push(previous);
@@ -114,8 +95,9 @@
 
     indicators.forEach((node, i) => {
       const participant = participants[i];
+
       if (!participant) {
-        console.error("No matching participant for indicator", {
+        debug("No matching participant for indicator", {
           index: i,
           indicators,
           node,
@@ -123,27 +105,46 @@
         });
         return;
       }
+
       const name = participant.textContent;
-      if (!tally[name]) {
+
+      if (name.includes("(Present")) {
+        debug("Unexpected participant: " + name, {
+          indicators,
+          participants,
+        });
+      }
+
+      if (!tally.hasOwnProperty(name)) {
+        debug(`Logging new participant: ${name}`);
         tally[name] = 0;
       }
-      if (alphaStringifyClassList(node.classList) !== quietClassString) {
+
+      // If the second bar in the indicator is taller than 4px, then we know
+      // that the participant is talking.
+      // If they are muted, the value will be 0.
+      // If they are unmuted and not talking, the value will be 4.
+      if (node.children[1].getBoundingClientRect().height > 4) {
+        debug(`Talking: ${name}`);
         tally[name]++;
       }
     });
 
     const { __seconds, ...record } = tally;
+
     Object.entries(record).forEach(([name, count]) => {
       const value = (count * 100) / __seconds;
       const readableValue = value.toFixed(2);
 
       if (elementsByName[name]) {
         // We have DOM references for this participant, so just update values
+        debug(`Update UI: ${name}`)
         const { progress, percent } = elementsByName[name];
         progress.value = value;
         progress.dataset.level = valueToLevel(value);
         percent.textContent = readableValue;
       } else {
+        debug(`Create UI: ${name}`)
         // No DOM references, create UI elements and store them
         const label = document.createElement("label");
         label.textContent = truncate(name);
@@ -173,12 +174,7 @@
   // Add a click handler for debugging purposes
   content.addEventListener("click", (e) => {
     if (e.shiftKey) {
-      console.log("Debugging output AITAL extension", {
-        data: tally,
-        elements: elementsByName,
-        participants,
-        indicators,
-      });
+      window.__aitalDebugMode = !window.__aitalDebugMode;
     }
   });
 

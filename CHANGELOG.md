@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.3] - 2023-01-11
+
 ### Added
 
 - Artwork, images, and description for web store
@@ -14,6 +16,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 
 - Extension icon
+
+### Fixed
+
+- More accurately determine if participants are speaking (#8)
 
 ## [0.0.2] - 2022-10-05
 
