@@ -63,7 +63,7 @@ function valueToLevel(value) {
 }
 
 function tick() {
-  participants = document.querySelectorAll("[data-self-name]");
+  participants = document.querySelectorAll("[data-self-name] [role=tooltip]");
 
   if (participants.length <= 1) {
     return;
