@@ -1,6 +1,6 @@
 {
   "name": "Am I Talking A Lot?",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Measure talking times in Google Meet",
   "manifest_version": 3,
   "content_scripts": [
